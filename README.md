@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @yasinsb
+- 👀 I’m interested in banking, finance, economics, data science and machine learning
+- 🌱 I’m currently learning end-to-end deployment of ML models
+- 📫 How to reach me: find my info on datatoinsight.ca 
