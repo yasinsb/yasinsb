@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @yasinsb
-- 👀 I’m interested in banking, finance, economics, data science and machine learning
-- 🌱 I’m currently learning end-to-end deployment of ML models
-- 📫 How to reach me: find my info on datatoinsight.ca 
+- 👋 Hi, I’m @yasinsb  
+- 🧠 I specialize in AI systems, data science, and intelligent automation  
+- 💡 My interests span economics, machine learning, LLMs, and agentic systems  
+- 🚀 I build end-to-end AI solutions—from research to real-world deployment  
+- 🛠️ Passionate about agentic modesl, A2A, MCP, structured data pipelines, and knowledge base graphing
